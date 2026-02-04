@@ -1,3 +1,4 @@
+
 # Instagram Login Clone
 
 ## 📌 Project Overview
@@ -30,3 +31,4 @@ The goal of this project is to replicate the basic UI of Instagram’s login scr
 ```bash
 npm install
 npm run dev
+
